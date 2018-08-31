@@ -1,18 +1,17 @@
 
-# Industry 4.0 의 중심, BigData
+# Python Course for BigData
 
 <div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <hr>
 
-<img src="./images/img_front_readme.png">
-
-## <font color='brown'>Python Course for BigData</font>
-> IT Competency Improvement Training
+## IT Competency Improvement Training
 - Python Programming Basics
 - Data Processing and Analysis
 - Machine Learning & Deep Learning
 
 <hr>
+
+<img src="./images/img_front_readme.png">
 
 ## Python Install and IDLE 
 
