@@ -4,13 +4,15 @@
 <div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <hr>
 
-![image.png](attachment:image.png)
+<img src="./images/img_front_readme.png">
 
 ## <font color='brown'>Python Course for BigData</font>
 > IT Competency Improvement Training
 - Python Programming Basics
 - Data Processing and Analysis
 - Machine Learning & Deep Learning
+
+<hr>
 
 ## Python Install and IDLE 
 
