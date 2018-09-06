@@ -184,9 +184,6 @@ filepath = 'data/company.csv'
 read_csv(filepath)
 ```
 
-    ['랭킹', '회사이름', '영문명', '창업자']
-    
-
 
 
 
