@@ -91,7 +91,7 @@ with open('./data/subject.txt', 'r') as fp:
 <br> 신민아,성균관대,sma@gmial.com
 <br> 전지현,중앙대,jhjeon@gmail.com
 <br> 이영애,숭실대,janggumi@gamil.com
-
+<br> 
 
 
 ```python
@@ -143,7 +143,7 @@ read_csv(filepath)
 <br> 3, 마이크로소프트, Microsoft, 빌게이츠 & 폴앨런
 <br> 4, 페이스북, Facebook, 마크쥬크버그
 <br> 5, 에어비엔비, Airbnb, 브라이언체크키 & 조게비어
-
+<br> 
 
 
 ```python
