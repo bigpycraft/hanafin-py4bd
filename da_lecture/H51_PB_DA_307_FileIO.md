@@ -86,11 +86,12 @@ with open('./data/subject.txt', 'r') as fp:
 
 ## <font color='brown'>Read CSV File</font>
 
-### <font color='blue'>FileName : students.csv</font>
+### <font color='blue'>FileName1 : students.csv</font>
 <hr> 김태희,서울대,thkim@gmail.com
 <br> 신민아,성균관대,sma@gmial.com
 <br> 전지현,중앙대,jhjeon@gmail.com
 <br> 이영애,숭실대,janggumi@gamil.com
+
 
 
 ```python
@@ -135,13 +136,14 @@ read_csv(filepath)
 
 
 
-### <font color='blue'>FileName : company.csv</font>
+### <font color='blue'>FileName2 : company.csv</font>
 <hr> 랭킹, 회사이름, 영문명, 창업자
 <br> 1, 애플, Apple, 스티브잡스
 <br> 2, 구글, Google, 세르게이브린 & 레리페이지
 <br> 3, 마이크로소프트, Microsoft, 빌게이츠 & 폴앨런
 <br> 4, 페이스북, Facebook, 마크쥬크버그
 <br> 5, 에어비엔비, Airbnb, 브라이언체크키 & 조게비어
+
 
 
 ```python
