@@ -565,7 +565,7 @@ arr
 ### 2차원 배열
 
 #### NumPy 배열에서 요소 색인하기
-<img src="./images/Figure4-1.png">
+<img src="../images/Figure4-1.png">
 
 <font color='brown'>
 
@@ -727,7 +727,7 @@ arr[1:6]
 
 
 #### 2차원 배열 슬라이싱
-<img src="./images/Figure4-2.png">
+<img src="../images/Figure4-2.png">
 
 
 ```python
