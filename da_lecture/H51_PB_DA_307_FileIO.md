@@ -38,7 +38,7 @@ fp.read()
 
     ValueError                                Traceback (most recent call last)
 
-    <ipython-input-4-5b707e20d623> in <module>()
+    <ipython-input-4-7310eeaf713c> in <module>()
     ----> 1 fp.read()
     
 
@@ -83,18 +83,14 @@ with open('./data/subject.txt', 'r') as fp:
 
     파이썬을 이용한 빅데이터 분석!!
     
-<!--
-# students.csv
-김태희,서울대,thkim@gmail.com
-신민아,성균관대,sma@gmial.com
-전지현,중앙대,jhjeon@gmail.com
-이영애,숭실대,janggumi@gamil.com
-//-->
-> <font color='blue'>FileName : students.csv</font>
-- 김태희,서울대,thkim@gmail.com
-- 신민아,성균관대,sma@gmial.com
-- 전지현,중앙대,jhjeon@gmail.com
-- 이영애,숭실대,janggumi@gamil.com
+
+## <font color='brown'>Read CSV File</font>
+
+### <font color='blue'>FileName : students.csv</font>
+<hr> 김태희,서울대,thkim@gmail.com
+<br> 신민아,성균관대,sma@gmial.com
+<br> 전지현,중앙대,jhjeon@gmail.com
+<br> 이영애,숭실대,janggumi@gamil.com
 
 
 ```python
@@ -138,18 +134,9 @@ read_csv(filepath)
      {'email': 'janggumi@gamil.com', 'name': '이영애', 'school': '숭실대'}]
 
 
-<!--
-# company.csv
-랭킹, 회사이름, 영문명, 창업자
-1, 애플, Apple, 스티브잡스
-2, 구글, Google, 세르게이브린 & 레리페이지
-3, 마이크로소프트, Microsoft, 빌게이츠 & 폴앨런
-4, 페이스북, Facebook, 마크쥬크버그
-5, 에어비엔비, Airbnb, 브라이언체크키 & 조게비어
-//-->
-> <font color='blue'>FileName : company.csv</font>
-<br>
-<br> 랭킹, 회사이름, 영문명, 창업자
+
+### <font color='blue'>FileName : company.csv</font>
+<hr> 랭킹, 회사이름, 영문명, 창업자
 <br> 1, 애플, Apple, 스티브잡스
 <br> 2, 구글, Google, 세르게이브린 & 레리페이지
 <br> 3, 마이크로소프트, Microsoft, 빌게이츠 & 폴앨런
@@ -176,6 +163,9 @@ def read_csv(filepath):         # 어떤 헤더가 있는 CSV 파일이든지 �
         fields = row.split(",")
         element = {}
         
+        if len(fields) != len(columns):
+            continue
+        
         for idx in range(len(columns)):   # index 의 값으로 비교해야 한다.
             column = columns[idx]
             field = fields[idx]
@@ -197,10 +187,10 @@ read_csv(filepath)
 
 
 
-    [{'랭킹': '1', '영문명': ' Apple', '창업자': ' 스티브잡스 ', '회사이름': ' 애플'},
-     {'랭킹': '2', '영문명': ' Google', '창업자': ' 세르게이브린 & 레리페이지 ', '회사이름': ' 구글'},
-     {'랭킹': '3', '영문명': ' Microsoft', '창업자': ' 빌게이츠 & 폴앨런 ', '회사이름': ' 마이크로소프트'},
-     {'랭킹': '4', '영문명': ' Facebook', '창업자': ' 마크쥬크버그 ', '회사이름': ' 페이스북'},
+    [{'랭킹': '1', '영문명': ' Apple', '창업자': ' 스티브잡스', '회사이름': ' 애플'},
+     {'랭킹': '2', '영문명': ' Google', '창업자': ' 세르게이브린 & 레리페이지', '회사이름': ' 구글'},
+     {'랭킹': '3', '영문명': ' Microsoft', '창업자': ' 빌게이츠 & 폴앨런', '회사이름': ' 마이크로소프트'},
+     {'랭킹': '4', '영문명': ' Facebook', '창업자': ' 마크쥬크버그', '회사이름': ' 페이스북'},
      {'랭킹': '5', '영문명': ' Airbnb', '창업자': ' 브라이언체크키 & 조게비어', '회사이름': ' 에어비엔비'}]
 
 
