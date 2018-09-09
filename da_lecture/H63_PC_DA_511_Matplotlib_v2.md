@@ -112,7 +112,8 @@ make_simple_line_chart(years, gdp)
 <font size=2 color='blue'>
 cf. plt.plot의 makrer, linestyle등 표시 방법은 <a href="http://matplotlib.org/api/lines_api.html">matplitlib/lines-api</a> 참조
 </font>
-```html
+
+```python
 <font color='darkgray'>
 lineStyles = {
     '-'    : '_draw_solid', 
