@@ -5,12 +5,13 @@
 <hr>
 
 ## Index of Data Analysis
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_notebook/html/H51_PB_DA_307_FileIO.html       ">1-1. File IO</a>
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_notebook/html/H52_PC_DA_521_NumPy_h5.html     ">1-2. NumPy  </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_notebook/html/H53_PB_DA_422_JSON.html         ">1-3. JSON Handle</a>
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_notebook/html/H61_PC_DA_531_Pandas_h5.html    ">2-1. Pandas </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_notebook/html/H62_PB_DA_421_MFR.html          ">2-2. Map, Filter, Reduce</a>
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_notebook/html/H63_PC_DA_511_Matplotlib_h5.html">2-3. MatplbtLib</a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H51_PB_DA_307_FileIO.html       ">1-1. File IO</a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H52_PC_DA_521_NumPy_h5.html     ">1-2. NumPy  </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H53_PB_DA_422_JSON.html         ">1-3. JSON Handle</a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H61_PC_DA_531_Pandas_h5.html    ">2-1. Pandas </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H62_PB_DA_421_MFR.html          ">2-2. Map, Filter, Reduce</a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H63_PC_DA_511_Matplotlib_h5.html">2-3. MatplbtLib</a>
+
 
 <hr>
 
