@@ -5,12 +5,21 @@
 <hr>
 
 ## Index of Data Analysis
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H51_PB_DA_307_FileIO.html       ">1-1. File IO</a>
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H52_PC_DA_521_NumPy_h5.html     ">1-2. NumPy  </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H53_PB_DA_422_JSON.html         ">1-3. JSON Handle</a>
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H61_PC_DA_531_Pandas_h5.html    ">2-1. Pandas </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H62_PB_DA_421_MFR.html          ">2-2. Map, Filter, Reduce</a>
-- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H63_PC_DA_511_Matplotlib_h5.html">2-3. MatplbtLib</a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H51_PB_DA_307_FileIO.html                 "> 1-1. File IO                     </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H52_PC_DA_521_NumPy_h5.html               "> 1-2. NumPy                       </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H53_PB_DA_422_JSON.html                   "> 1-3. JSON Handle                 </a>
+<br/><br/>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H61_PC_DA_531_Pandas_h5.html              "> 2-1. Pandas                      </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H62_PB_DA_421_MFR.html                    "> 2-2. MFR : Map, Filter, Reduce   </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H63_PC_DA_511_Matplotlib_h5.html          "> 2-3. MatplbtLib                  </a>
+<br/><br/>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H71_PD_DA_610_Kaggle_Titanic.html         "> 3-1. Kaggle Site                 </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H72_PD_DA_621_DataGoKr.html               "> 3-2. Data Portal 1               </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H73_PD_DA_622_DataGoKr.html               "> 3-3. Data Portal 2               </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H74_PB_DA_424_Folium_ver1.html            "> 3-4. Folium for Map              </a>
+<br/><br/>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H81_PD_DA_630_Seoul_Population_18_1Q.html "> 4-1. Seoul Population            </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H82_PB_DA_423_RegEx_ver1.html             "> 4-2. RegEx                       </a>
 
 
 <hr>
