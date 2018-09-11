@@ -20,7 +20,8 @@
 <br/><br/>
 - <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H81_PD_DA_630_Seoul_Population_18_1Q.html "> 4-1. Seoul Population            </a>
 - <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H82_PB_DA_423_RegEx_ver1.html             "> 4-2. RegEx                       </a>
-
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H83_PE_DA_712_WebCrawling1.html           "> 4-3. WebCrawling 1               </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H84_PE_DA_712_WebCrawling2.html           "> 4-4. WebCrawling 2               </a>
 
 <hr>
 
@@ -45,6 +46,14 @@
 - Download : https://www.anaconda.com/download/
 - Download the latest version 
 - Check the OS version & bit (32bit / 64bit)
+
+<hr>
+
+## Microsoft Azuer Notebooks
+> Interactive coding in my browser
+- https://notebooks.azure.com/
+- Free, in the cloud, powered by jupyter
+
 
 <hr>
 <marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
