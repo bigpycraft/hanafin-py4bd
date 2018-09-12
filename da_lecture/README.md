@@ -28,7 +28,8 @@
 - <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H82_PB_DA_423_RegEx_ver1.html             "> 4-2. RegEx                       </a>
 - <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H83_PE_DA_712_WebCrawling1.html           "> 4-3. WebCrawling 1               </a>
 - <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H84_PE_DA_712_WebCrawling2.html           "> 4-4. WebCrawling 2               </a>
-<br/><br/>
+
+
 <span style="color:blue">[Quiz] Get McDonald's Index in Seoul &nbsp;&nbsp;&nbsp;├─────────▶ &nbsp;&nbsp;&nbsp;</span>
 <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/da_lecture/html/H86_PE_DA_720_Seoul_MacDonald_idx_v3.html "> [ ♤ ◇ ♡ ♧ ] </a>
 
