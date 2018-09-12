@@ -13,6 +13,11 @@
 
 <img src="./images/img_front_readme.png">
 
+
+## <span style="color:#CC0000"> ※ Urgent Notice </span>
+* <span style="color:#AA0000"> Please join the following "<u>Microsoft Azuer Notebooks</u>" site. </span>
+* <span style="color:#AA0000"> Refer to the link below !! </span>
+
 ## Notice 
 * [교육자료] : https://github.com/bigpycraft/hanafin-py4bd
 * [공유폴더] : \\192.15.206.251\100000100$
@@ -48,6 +53,14 @@
 - Download : https://www.anaconda.com/download/
 - Download the latest version 
 - Check the OS version & bit (32bit / 64bit)
+
+<hr>
+
+### Microsoft Azuer Notebooks
+> Interactive coding in my browser
+- https://notebooks.azure.com/
+- Free, in the cloud, powered by jupyter
+
 
 <hr>
 <marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
