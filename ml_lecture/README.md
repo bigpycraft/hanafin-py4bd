@@ -4,8 +4,6 @@
 <div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <hr>
 
-<hr>
-
 ## Index of Machine Learning
 - <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/ml_lecture/html/AZN-ML100_AI_Overview.html                        ">Artificial Intelligence Overview           </a>
 <br/><br/>
@@ -19,33 +17,20 @@
 <br/><br/>
 
 
-
-### <span style="color:#CC0000"> ※ Urgent Notice </span>
-* <span style="color:#AA0000"> Please join the following "<u>Microsoft Azuer Notebooks</u>" site. </span>
-* <span style="color:#AA0000"> Refer to the link below !! </span>
-
-<hr>
-
-### Microsoft Azuer Notebooks
-> Interactive coding in my browser
-- https://notebooks.azure.com/
-- Free, in the cloud, powered by jupyter
-
-
 <hr>
 
 ## IT Competency Improvement Training
 - Python Programming Basics
-- <b>Data Processing and Analysis</b>
-- Machine Learning & Deep Learning
+- Data Processing and Analysis
+- <b>Machine Learning & Deep Learning</b>
 
 
 <hr>
 
-## Notice 
-* [교육자료] : https://github.com/bigpycraft/hanafin-py4bd
-* [공유폴더] : \\192.15.206.251\100000100$
-* [보안PW]   : itcampus1! 또는 itcampus1!!
+## Microsoft Azuer Notebooks
+> Interactive coding in my browser
+- https://notebooks.azure.com/
+- Free, in the cloud, powered by jupyter
 
 
 <hr>
