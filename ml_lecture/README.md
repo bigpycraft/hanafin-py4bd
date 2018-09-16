@@ -15,6 +15,9 @@
 - <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/ml_lecture/html/AZN-ML205_Logistic_classifier_v2.html             ">2-1. Logistic Classifier                   </a>
 - <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/ml_lecture/html/AZN-ML206_Softmax_Classifier.html                 ">2-2. Softmax Classifier                    </a>
 <br/><br/>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/ml_lecture/html/CLN-ML701_Cognitive_Face_Emotions_v7_ex01.html    ">Tip. MS Azure Cognitive Services 1         </a>
+- <a href="https://htmlpreview.github.io/?https://github.com/bigpycraft/hanafin-py4bd/blob/master/ml_lecture/html/CLN-ML702_Cognitive_Face_Emotions_v7_ex02.html    ">Tip. MS Azure Cognitive Services 2         </a>
+<br/><br/>
 
 
 <hr>
